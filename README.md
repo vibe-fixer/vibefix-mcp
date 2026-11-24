@@ -1,4 +1,4 @@
-# VibeFix: fixed in your code, then tested on your live app.
+# VibeFix (vibe-fixer.com): fixed in your code, then tested on your live app
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -12,7 +12,7 @@ If you want the problem fixed, the agent goes into your code. It looks for the c
 
 What it can work on: sign-up and login, emails that don't arrive or link to the wrong place, payments, API, integration and Supabase errors, and front-end bugs, as long as the cause is in the code.
 
-Today the fix is for apps built with Lovable, or any app whose code is on GitHub.
+The free check works with published apps, including apps built in Lovable, Base44, Bolt, Replit and v0. Today the fix is for apps built with Lovable, or any app whose code is on GitHub.
 
 A paid fix is available on vibe-fixer.com.
 
@@ -124,9 +124,11 @@ See its README for the workflow, the permissions and which addresses it checks.
 - The AI agent is often right and sometimes wrong. Look at the evidence each finding shows.
 - `assess_broken_app` works from a description alone and says so in its answer.
 
-## Also from VibeFix: Shopify stores
+## Shopify stores
 
-VibeFix also works on Shopify stores. The [free Shopify homepage accessibility checker](https://vibe-fixer.com/tools/shopify-accessibility-checker) runs an automated, read-only check of a store's public homepage. It tests only what software can test of WCAG 2.0 and 2.1, Levels A and AA. It doesn't test the newer WCAG 2.2 criteria, such as target size. More: [VibeFix for Shopify stores](https://vibe-fixer.com/stores).
+VibeFix also works on Shopify stores. The [free Shopify homepage accessibility checker](https://vibe-fixer.com/tools/shopify-accessibility-checker) runs an automated, read-only check of a store's public homepage. It tests only what software can test of WCAG 2.0 and 2.1, Levels A and AA. It doesn't test the newer WCAG 2.2 criteria, such as target size.
+
+If the check finds issues, our AI agent can fix them in your theme's code on an unpublished copy. You preview the copy and publish it yourself, and the AI agent re-checks your live store. Details and pricing: [VibeFix for Shopify stores](https://vibe-fixer.com/stores).
 
 ## What this plugin runs and sends
 
