@@ -12,7 +12,7 @@ If you want the problem fixed, the agent goes into your code. It looks for the c
 
 What it can work on: sign-up and login, emails that don't arrive or link to the wrong place, payments, API, integration and Supabase errors, and front-end bugs, as long as the cause is in the code.
 
-The free check works with published apps, including apps built in Lovable, Base44, Bolt, Replit and v0. Today the fix is for apps built with Lovable, or any app whose code is on GitHub.
+The free check works with published apps, including apps built in Lovable, Base44, Bolt, Replit and v0. The fix works on any app whose code is on GitHub, whichever tool built it (Lovable, Bolt, Base44, Replit, v0, Cursor). Lovable projects connect through Lovable's own GitHub sync.
 
 A paid fix is available on vibe-fixer.com.
 
@@ -31,7 +31,7 @@ Every app gets one free check. This repository is the MCP connection for it: add
 2. **Read.** `get_check_result` returns what it found, with evidence.
 3. **Re-check.** `confirm_fix` re-checks those problems on your live app and marks each one fixed or not.
 
-The free check never changes your app. A full check runs only when you confirm the app is yours; otherwise the check is look-only and does not sign up. Today the fix is for apps built with Lovable, or any app whose code is on GitHub.
+The free check never changes your app. A full check runs only when you confirm the app is yours; otherwise the check is look-only and does not sign up. The fix works on any app whose code is on GitHub, whichever tool built it (Lovable, Bolt, Base44, Replit, v0, Cursor). Lovable projects connect through Lovable's own GitHub sync.
 
 ## Free check, paid fix
 
