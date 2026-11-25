@@ -22,6 +22,7 @@ Every app gets one free check. This repository is the MCP connection for it: add
 - **Transport:** Streamable HTTP
 - **Authentication:** two tools need no sign-in; five use OAuth sign-in to your VibeFix account (the client is prompted when you call one)
 - **Website:** [vibe-fixer.com](https://vibe-fixer.com)
+- **What is VibeFix:** [vibe-fixer.com/guides/what-is-vibefix](https://vibe-fixer.com/guides/what-is-vibefix)
 - **Server card:** [`/.well-known/mcp.json`](https://vibe-fixer.com/.well-known/mcp.json)
 - **Registry name:** `com.vibe-fixer/vibefix`
 
